@@ -8,8 +8,13 @@
 ---
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhruti-29&theme=tokyonight" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&background=0D1117&ring=00FFFF&fire=FF69B4&currStreakLabel=00FFFF&stroke=FFFFFF&border_radius=20&card_width=450" 
+    alt="GitHub Streak" 
+    style="border-radius: 50%; box-shadow: 0px 0px 20px #00FFFF;" 
+  />
 </p>
+
 
 
 
