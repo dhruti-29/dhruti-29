@@ -6,8 +6,14 @@
 </p>
 
 ---
+🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruti-29&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 <h2>🚀 About Me</h2>
+
 <ul>
   <li>🎓 I'm a <b>First-Year Computer Science Engineering</b> student.</li>
   <li>🌱 I have completed <b>C language</b> and currently learning <b>C++</b>.</li>
