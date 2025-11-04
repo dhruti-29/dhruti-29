@@ -11,11 +11,6 @@
   <img src="https://streak-stats.demolab.com/?user=dhruti-29&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-
-
-
-
-
 <h2>🚀 About Me</h2>
 
 <ul>
