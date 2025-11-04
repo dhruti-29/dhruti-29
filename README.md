@@ -6,10 +6,12 @@
 </p>
 
 ---
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruti-29&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dhruti-29&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+
 
 
 <h2>🚀 About Me</h2>
