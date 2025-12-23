@@ -7,9 +7,7 @@
 
 ---
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.github.io/streak/stats?user=dhruti-29&theme=highcontrast&border_radius=10&ring_color=DD2727)](https://github.com/dhruti-29)
-
-
+[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)](https://git.io/streak-stats)
 
 <h2>🚀 About Me</h2>
 
