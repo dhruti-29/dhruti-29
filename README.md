@@ -7,9 +7,8 @@
 
 ---
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhruti-29&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.github.io/streak/stats?user=YOUR_USERNAME&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=gradient&fire=true)
+
 
 <h2>🚀 About Me</h2>
 
