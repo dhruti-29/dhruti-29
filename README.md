@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=green&center=true&vCenter=true&width=600&lines=First+Year+CSE+Student;C+Programmer+%26+Learning+C%2B%2B;Developer+In+Progress;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhruti-29&theme=hacker" alt="GitHub Streak" /></a>
 
 <h2>🚀 About Me</h2>
 
