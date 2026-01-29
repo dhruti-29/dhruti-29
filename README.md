@@ -47,17 +47,6 @@
 <h2 align="center" class="glow">💻 Developer in Progress...</h2>
 
 <!-- Glow Animation -->
-<style>
-  .glow {
-    animation: glow 2s ease-in-out infinite alternate;
-    color: #1E90FF;
-    text-shadow: 0 0 10px #1E90FF, 0 0 20px #4682B4, 0 0 30px #5dade2;
-  }
-  @keyframes glow {
-    from { text-shadow: 0 0 10px #5dade2, 0 0 20px #1E90FF; }
-    to { text-shadow: 0 0 20px #5dade2, 0 0 40px #1E90FF; }
-  }
-</style>
 
 
 
