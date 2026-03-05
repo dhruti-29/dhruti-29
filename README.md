@@ -1,4 +1,10 @@
-<h1 align="center">🌸 Hi, I'm Dhruti Viradiya 🌸</h1>
+<h1 align="center">🌸 Dhruti Viradiya 🌸</h1>
+
+<!-- Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=First+Year+CSE+Student;C+Programmer+%26+Learning+C%2B%2B;Developer+In+Progress;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
 <div align="center">
 
@@ -132,6 +138,7 @@
 </div>
 
 ---
+
 
 <div align="center">
 
