@@ -147,3 +147,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 </div>
+
+
+
+
+## 🔥 GitHub Streak Status (Daily)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true" />
+</p>
+
