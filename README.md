@@ -151,8 +151,5 @@
 
 
 
-## 🔥 GitHub Streak Status (Daily)
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true" />
-</p>
+
 
