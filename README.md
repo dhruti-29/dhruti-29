@@ -148,11 +148,7 @@
 
 </div>
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&ring=FF00FF&fire=FF1493&currStreakNum=FF00FF&currStreakLabel=FF00FF&sideNums=FF69B4&sideLabels=FF69B4&dates=FFB6C1" />
-</p>
 
 
 
