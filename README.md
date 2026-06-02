@@ -150,13 +150,13 @@
 
 
 
-## 🔥 GitHub Streak Status
+
+
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true&cache_seconds=1"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=dhruti-29&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&currStreakLabel=00BFFF&sideNums=00BFFF&sideLabels=00BFFF&dates=87CEEB" />
 </p>
 
 
