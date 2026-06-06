@@ -1,4 +1,4 @@
-<h1 align="center">Dhruti Viradiya </h1>
+<img width="1007" height="1088" alt="image" src="https://github.com/user-attachments/assets/8c0511de-1dd9-4f11-9ad6-1aa262b831b8" /><h1 align="center">Dhruti Viradiya </h1>
 
 <!-- Typing Animation -->
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=second+Year+CSE+Student;Learning+C+%26+C%2B%2B;Future+Software+Developer;Problem+Solver+in+Progress;Always+Learning+Something+New+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=second+Year+CSE+Student;Learning+C+%26+C%2B%2B;Future+Software+Developer;Problem+Solver+in+Progress;Always+Learning+Something+New"/>
 
 </div>
 
@@ -152,12 +152,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true&ring=FF69B4&fire=FF1493&currStreakNum=FF69B4&currStreakLabel=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&dates=FFC0CB" />
 </p>
-
-
-
-
-
-
-
-
-
