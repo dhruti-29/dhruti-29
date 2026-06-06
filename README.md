@@ -49,9 +49,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,git,github,vscode"/>
 
 </div>
+
+### 🧠 DSA
+- Data Structures & Algorithms (C++)
+- Problem Solving
+- Competitive Programming
 
 ---
 
