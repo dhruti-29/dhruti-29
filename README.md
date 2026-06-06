@@ -38,7 +38,7 @@
 
 ---
 
-# 🌷 My Coding Journey
+#  My Coding Journey
 
 
 💖 Developer journey → **Just getting started**
