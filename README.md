@@ -1,51 +1,32 @@
-<img width="1007" height="1088" alt="image" src="https://github.com/user-attachments/assets/8c0511de-1dd9-4f11-9ad6-1aa262b831b8" /><h1 align="center">Dhruti Viradiya </h1>
-
-<!-- Typing Animation -->
+# 👋 Hi, I'm Dhruti Viradiya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Second+Year+CSE+Student;Developer+In+Progress;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Second+Year+CSE+Student;Web+Development+Learner;DSA+Enthusiast;Future+Software+Developer;Always+Learning+New+Things" />
 </p>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=second+Year+CSE+Student;Learning+C+%26+C%2B%2B;Future+Software+Developer;Problem+Solver+in+Progress;Always+Learning+Something+New"/>
-
-</div>
-
-<div align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
 </div>
 
 ---
 
-# 🎀 About Me
+## 🎀 About Me
 
- second Year **Computer Science Engineering** student  
+🎓 Second Year Computer Science Engineering Student
 
- Completed **C and cpp Programming**
+💻 Completed C & C++
 
- Currently learning **web  Concepts**
+🌐 Currently Learning Web Development
 
- Improving **logic building & problem solving**
+🧠 Practicing DSA & Problem Solving
 
- Building strong base in **Core Programming**
+🚀 Building Strong Programming Fundamentals
 
-✨ Belief → **Small progress every day becomes big success**
-
----
-
-#  My Coding Journey
-
-
-💖 Developer journey → **Just getting started**
+✨ *Small progress every day becomes big success.*
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -53,69 +34,50 @@
 
 </div>
 
-### 🧠 DSA
+---
+
+## 🧠 DSA & Problem Solving
+
 - Data Structures & Algorithms (C++)
-- Problem Solving
+- Logic Building
 - Competitive Programming
+- LeetCode Practice
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruti-29&show_icons=true&theme=radical&hide_border=true"/>
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true"/>
+</p>
 
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhruti-29&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=dhruti-29&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruti-29&layout=compact&theme=radical&hide_border=true&title_color=ff69b4"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruti-29&theme=react-dark&color=ff69b4&line=ff69b4&point=ff69b4"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruti-29&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-# 🌸 GitHub Activity
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhruti-29&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruti-29&theme=radical&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
-# 💌 Connect With Me
+## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruti-29&theme=react-dark&color=ff69b4&line=ff69b4&point=ff69b4"/>
+</p>
+
+---
+
+## 💌 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/dhruti-29">
 <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
@@ -125,26 +87,18 @@
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=dhruti-29&icon=5&color=12"/>
-
-</div>
-
----
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=dhruti-29&icon=5&color=12"/>
+</p>
 
 <div align="center">
-
-### 💖 Developer in Progress
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 </div>
+
 
 
 ## 🔥 GitHub Streak
