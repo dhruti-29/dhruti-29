@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Dhruti Viradiya 🌸</h1>
+<h1 align="center">Dhruti Viradiya </h1>
 
 <!-- Typing Animation -->
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=First+Year+CSE+Student;Learning+C+%26+C%2B%2B;Future+Software+Developer;Problem+Solver+in+Progress;Always+Learning+Something+New+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=second+Year+CSE+Student;Learning+C+%26+C%2B%2B;Future+Software+Developer;Problem+Solver+in+Progress;Always+Learning+Something+New+✨"/>
 
 </div>
 
@@ -24,15 +24,15 @@
 
 # 🎀 About Me
 
-🌸 First Year **Computer Science Engineering** student  
+ second Year **Computer Science Engineering** student  
 
-💻 Completed **C Programming**
+ Completed **C and cpp Programming**
 
-🚀 Currently learning **C++ & OOP Concepts**
+ Currently learning **web  Concepts**
 
-🧠 Improving **logic building & problem solving**
+ Improving **logic building & problem solving**
 
-📚 Building strong base in **Core Programming**
+ Building strong base in **Core Programming**
 
 ✨ Belief → **Small progress every day becomes big success**
 
@@ -40,13 +40,6 @@
 
 # 🌷 My Coding Journey
 
-🌱 **2025** → Started coding with **C language**
-
-⚙️ Currently exploring **C++ and Object Oriented Programming**
-
-💡 Practicing small programs to strengthen **coding logic**
-
-🚀 Next Goal → **Data Structures & Algorithms**
 
 💖 Developer journey → **Just getting started**
 
