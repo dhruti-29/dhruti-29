@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhruti Viradiya
+# Dhruti Viradiya
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Second+Year+CSE+Student;Web+Development+Learner;DSA+Enthusiast;Future+Software+Developer;Always+Learning+New+Things" />
@@ -101,8 +101,4 @@
 
 
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true&ring=FF69B4&fire=FF1493&currStreakNum=FF69B4&currStreakLabel=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&dates=FFC0CB" />
-</p>
