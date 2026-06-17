@@ -97,19 +97,6 @@
 
 ---
 
-# 📈 Coding Profiles
-
-<p align="center">
-
-<a href="[https://leetcode.com/](https://leetcode.com/u/Dhruti_33/)">
-<img src="https://img.shields.io/badge/LeetCode-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="[https://www.hackerrank.com/](https://www.hackerrank.com/profile/25cs1131)">
-<img src="https://img.shields.io/badge/HackerRank-FF69B4?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
