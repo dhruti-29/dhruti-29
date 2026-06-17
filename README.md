@@ -1,32 +1,69 @@
-# Dhruti Viradiya
+#  Dhruti Viradiya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Second+Year+CSE+Student;Web+Development+Learner;DSA+Enthusiast;Future+Software+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=Second+Year+CSE+Student;Web+Development+Learner;DSA+Enthusiast;ESP32+Project+Developer;Future+Software+Engineer;Always+Learning+New+Things" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
 </div>
 
 ---
 
-## 🎀 About Me
+# 🎀 About Me
 
 🎓 Second Year Computer Science Engineering Student
 
-💻 Completed C & C++
+💻 Strong Foundation in C & C++
 
 🌐 Currently Learning Web Development
 
-🧠 Practicing DSA & Problem Solving
+🧠 Practicing Data Structures & Algorithms
 
-🚀 Building Strong Programming Fundamentals
+🚀 Passionate About Building Real World Projects
 
-✨ *Small progress every day becomes big success.*
+🔍 Interested In Software Development & Problem Solving
+
+✨ Small progress every day becomes big success.
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Featured Projects
+
+### 🏧 ATM Management System
+- Developed using C++
+- Account Management
+- Balance Inquiry
+- Deposit & Withdrawal System
+
+### 📚 Library Management System
+- Book Records Management
+- Student Issue/Return System
+- File Handling Concepts
+
+### 🏫 School Management System
+- Student Record Management
+- Teacher & Course Information
+- Object Oriented Programming Concepts
+
+### 🔐 Digital Safe Locker System
+- Built using ESP32
+- Password Protected Access
+- Embedded Systems Project
+
+### 🤖 Object Detection System
+- ESP32 + Sensors
+- Object Detection & Monitoring
+- IoT Based Project
+
+### ♻️ Plastic Collection Reward Platform
+- Website for Plastic Collection
+- User Reward Based Concept
+- Environmental Awareness Project
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -36,46 +73,89 @@
 
 ---
 
-## 🧠 DSA & Problem Solving
+# 🧠 DSA & Problem Solving
 
 - Data Structures & Algorithms (C++)
+- Problem Solving
 - Logic Building
 - Competitive Programming
 - LeetCode Practice
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 Achievements
+
+🥇 CodeAlpha Internship (C Programming)
+
+🏅 Smart India Hackathon (SIH) Internal Round Selected
+
+⭐ HackerRank Problem Solving Achievements
+
+🔥 Consistent GitHub Contribution Streak
+
+📚 Active Learner In Web Development & DSA
+
+---
+
+# 📈 Coding Profiles
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruti-29&show_icons=true&theme=radical&hide_border=true"/>
-  
-  <img width="49%" src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruti-29&layout=compact&theme=radical&hide_border=true"/>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-FF69B4?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruti-29&theme=radical&no-frame=true&margin-w=10"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruti-29&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruti-29&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruti-29&theme=react-dark&color=ff69b4&line=ff69b4&point=ff69b4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dhruti-29&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 💌 Connect With Me
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruti-29&theme=react-dark&color=ff69b4&line=ff69b4&point=ff69b4"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+📌 CodeAlpha Internship Certificate
+
+📌 HackerRank Certifications
+
+📌 Future Certifications Coming Soon...
+
+---
+
+# 💌 Connect With Me
 
 <p align="center">
 
@@ -92,13 +172,9 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dhruti-29&icon=5&color=12"/>
+<img src="https://visitcount.itsvg.in/api?id=dhruti-29&icon=5&color=12"/>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 </div>
-
-
-
-
