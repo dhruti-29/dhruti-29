@@ -30,40 +30,40 @@
 
 #  Featured Projects
 
-### 🏧 ATM Management System
+###  ATM Management System
 - Developed using C++
 - Account Management
 - Balance Inquiry
 - Deposit & Withdrawal System
 
-### 📚 Library Management System
+###  Library Management System
 - Book Records Management
 - Student Issue/Return System
 - File Handling Concepts
 
-### 🏫 School Management System
+###  School Management System
 - Student Record Management
 - Teacher & Course Information
 - Object Oriented Programming Concepts
 
-### 🔐 Digital Safe Locker System
+###  Digital Safe Locker System
 - Built using ESP32
 - Password Protected Access
 - Embedded Systems Project
 
-### 🤖 Object Detection System
+###  Object Detection System
 - ESP32 + Sensors
 - Object Detection & Monitoring
 - IoT Based Project
 
-### ♻️ Plastic Collection Reward Platform
+###  Plastic Collection Reward Platform
 - Website for Plastic Collection
 - User Reward Based Concept
 - Environmental Awareness Project
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-# 🧠 DSA & Problem Solving
+#  DSA & Problem Solving
 
 - Data Structures & Algorithms (C++)
 - Problem Solving
@@ -83,24 +83,24 @@
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
-🥇 CodeAlpha Internship (C Programming)
+ CodeAlpha Internship (C Programming)
 
-🏅 Smart India Hackathon (SIH) Internal Round Selected
+ Smart India Hackathon (SIH) Internal Round Selected
 
-⭐ HackerRank Problem Solving Achievements
+ HackerRank Problem Solving Achievements
 
-🔥 Consistent GitHub Contribution Streak
+ Consistent GitHub Contribution Streak
 
-📚 Active Learner In Web Development & DSA
-
----
-
+ Active Learner In Web Development & DSA
 
 ---
 
-# 📊 GitHub Analytics
+
+---
+
+#  GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruti-29&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
@@ -113,7 +113,7 @@
 </p>
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dhruti-29&theme=radical&no-frame=true&margin-w=10"/>
@@ -121,7 +121,7 @@
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruti-29&theme=react-dark&color=ff69b4&line=ff69b4&point=ff69b4"/>
@@ -129,13 +129,13 @@
 
 ---
 
-# 📜 Certifications
+# Certifications
 
-📌 CodeAlpha Internship Certificate
+ CodeAlpha Internship Certificate
 
-📌 HackerRank Certifications
+ HackerRank Certifications
 
-📌 Future Certifications Coming Soon...
+Future Certifications Coming Soon...
 
 ---
 
