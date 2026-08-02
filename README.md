@@ -10,25 +10,25 @@
 
 ---
 
-# 🎀 About Me
+#  About Me
 
-🎓 Second Year Computer Science Engineering Student
+ Second Year Computer Science Engineering Student
 
-💻 Strong Foundation in C & C++
+ Strong Foundation in C & C++
 
-🌐 Currently Learning Web Development
+ Currently Learning Web Development
 
-🧠 Practicing Data Structures & Algorithms
+ Practicing Data Structures & Algorithms
 
-🚀 Passionate About Building Real World Projects
+ Passionate About Building Real World Projects
 
-🔍 Interested In Software Development & Problem Solving
+ Interested In Software Development & Problem Solving
 
-✨ Small progress every day becomes big success.
+ Small progress every day becomes big success.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ### 🏧 ATM Management System
 - Developed using C++
