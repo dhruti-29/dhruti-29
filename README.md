@@ -139,7 +139,7 @@ Future Certifications Coming Soon...
 
 ---
 
-# 💌 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
