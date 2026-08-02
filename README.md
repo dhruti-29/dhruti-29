@@ -100,6 +100,12 @@
 
 ---
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruti-29&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true&cache_seconds=1800"/>
+</p>
+
 #  GitHub Analytics
 
 
