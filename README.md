@@ -28,38 +28,6 @@
 
 ---
 
-#  Featured Projects
-
-###  ATM Management System
-- Developed using C++
-- Account Management
-- Balance Inquiry
-- Deposit & Withdrawal System
-
-###  Library Management System
-- Book Records Management
-- Student Issue/Return System
-- File Handling Concepts
-
-###  School Management System
-- Student Record Management
-- Teacher & Course Information
-- Object Oriented Programming Concepts
-
-###  Digital Safe Locker System
-- Built using ESP32
-- Password Protected Access
-- Embedded Systems Project
-
-###  Object Detection System
-- ESP32 + Sensors
-- Object Detection & Monitoring
-- IoT Based Project
-
-###  Plastic Collection Reward Platform
-- Website for Plastic Collection
-- User Reward Based Concept
-- Environmental Awareness Project
 
 ---
 
