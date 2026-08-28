@@ -14,7 +14,7 @@
 
  Second Year Computer Science Engineering Student
 
- Strong Foundation in C & C++
+ 
 
  Currently Learning Web Development
 
