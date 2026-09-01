@@ -1,4 +1,4 @@
-#  Dhruti Viradiya _ Cse student 
+#  Dhruti Viradiya 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=Second+Year+CSE+Student;Web+Development+Learner;DSA+Enthusiast;ESP32+Project+Developer;Future+Software+Engineer;Always+Learning+New+Things" />
