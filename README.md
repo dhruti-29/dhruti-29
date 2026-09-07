@@ -39,7 +39,7 @@
 
 ---
 
-#  DSA & Problem Solving
+#  Problem Solving
 
 - Data Structures & Algorithms (C++)
 - Problem Solving
