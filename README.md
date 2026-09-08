@@ -50,7 +50,7 @@
  CodeAlpha Internship (C Programming)
 
  Smart India Hackathon (SIH) Internal Round Selected
-
+Gujrat level SSIP selected 
  HackerRank Problem Solving Achievements
 
  Consistent GitHub Contribution Streak
