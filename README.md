@@ -10,11 +10,7 @@
 
 #  About Me
 
- Second Year Computer Science Engineering Student
-
- 
-
- Currently Learning Web Development
+ Second Year Computer Science 
 
  Practicing Data Structures & Algorithms
 
