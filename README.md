@@ -93,15 +93,7 @@ Gujrat level SSIP selected
 
 ---
 
-# Certifications
 
- CodeAlpha Internship Certificate
-
- HackerRank Certifications
-
-Future Certifications Coming Soon...
-
----
 
 #  Connect With Me
 
