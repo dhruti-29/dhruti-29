@@ -1,122 +1,38 @@
+#    <h2 align="center">I'm Dhruti Viradiya</h2>
+### CSE Student | Aspiring AI Engineer
 
-#  Dhruti Viradiya _ CSE STUDENT 
+I enjoy coding, solving problems, and building projects while learning new technologies.
 
-<p align="center">
-  
+*  Practicing DSA and problem solving
+*  Learning Python and exploring AI/ML
+*  Building projects that solve real-world problems
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,git,github&theme=dark" alt="Tech Stack" />
 </p>
 
+### Achievements
 
+* SIH — University-Level Selected
+* SSIP — Gujarat-Level Selected
+* CodeAlpha — C Programming Internship
+* HackerRank — C++ 5★ | C 4★
 
----
-
-#  About Me
-
- Second Year Computer Science 
-
- Practicing Data Structures & Algorithms
-
- Passionate About Building Real World Projects
-
- Interested In Software Development & Problem Solving
-
- Small progress every day becomes big success.
-
----
-
-
-
----
-
-#  Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,git,github,vscode"/>
-
-</div>
-
----
-
-#  Problem Solving
-
-- Data Structures & Algorithms (C++)
-- Problem Solving
-- Logic Building
-- Competitive Programming
-- LeetCode Practice
-
----
-
-#  Achievements
-
- CodeAlpha Internship (C Programming)
-
- Smart India Hackathon (SIH) Internal Round Selected
-Gujrat level SSIP selected 
- HackerRank Problem Solving Achievements
-
- Consistent GitHub Contribution Streak
-
- Active Learner In Web Development & DSA
-
----
-
-
----
+### GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruti-29&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=dhruti-29&theme=radical&hide_border=true&cache_seconds=1800"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dhruti-29&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=dhruti-29&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
-
-#  GitHub Analytics
-
-
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruti-29&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
-</p>
----
-
-#  GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhruti-29&theme=radical&no-frame=true&margin-w=10"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruti-29&bg_color=0d1117&color=c9d1d9&line=3fb950&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
----
+### Connect With Me
 
-#  Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruti-29&theme=react-dark&color=ff69b4&line=ff69b4&point=ff69b4"/>
-</p>
-
----
-
-
-
-#  Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/dhruti-29">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dhruti-viradiya-18b023377">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=dhruti-29&icon=5&color=12"/>
-</p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhruti-viradiya-18b023377)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/dhruti-29)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/dreamer_Dhruti)
