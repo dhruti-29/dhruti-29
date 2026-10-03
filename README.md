@@ -27,9 +27,7 @@ I enjoy coding, solving problems, and building projects while learning new techn
   <img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=dhruti-29&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruti-29&bg_color=0d1117&color=c9d1d9&line=3fb950&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+
 
 ### Connect With Me
 
