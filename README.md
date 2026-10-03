@@ -20,13 +20,6 @@ I enjoy coding, solving problems, and building projects while learning new techn
 * CodeAlpha — C Programming Internship
 * HackerRank — C++ 5★ | C 4★
 
-### GitHub Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dhruti-29&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=dhruti-29&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
 
 
 ### Connect With Me
