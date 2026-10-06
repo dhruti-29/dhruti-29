@@ -15,10 +15,10 @@ I enjoy coding, solving problems, and building projects while learning new techn
 
 ### Achievements
 
-* SIH — University-Level Selected
-* SSIP — Gujarat-Level Selected
-* CodeAlpha —  Programming Internship
-* HackerRank — C++ 5★ | C 4★
+* SIH : University-Level Selected
+* SSIP : Gujarat-Level Selected
+* CodeAlpha :  Programming Internship
+* HackerRank : C++ 5★ | C 4★
 
 
 
