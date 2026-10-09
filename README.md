@@ -18,7 +18,7 @@ I enjoy coding, solving problems, and building projects while learning new techn
 * SIH : University-Level Selected
 * SSIP : Gujarat-Level Selected
 * CodeAlpha :  Programming Internship
-* HackerRank : C++ 5★ | C 4★
+* HackerRank : py 3 star |C++ 5★ | C 4★
 
 
 
