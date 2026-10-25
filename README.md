@@ -3,7 +3,7 @@
 
 I enjoy coding, solving problems, and building projects while learning new technologies.
 
-*  Practicing DSA and problem solving
+*  Practicing DSA and problem solving 
 *  Learning Python and exploring AI/ML
 *  Building projects that solve real-world problems
 
