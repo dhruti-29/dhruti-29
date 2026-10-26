@@ -1,4 +1,4 @@
-#    <h2 align="center">I'm Dhruti Viradiya</h2>
+#    <h2 align="center">Dhruti Viradiya</h2>
 ### CSE Student | Aspiring AI Engineer
 
 I enjoy coding, solving problems, and building projects while learning new technologies.
