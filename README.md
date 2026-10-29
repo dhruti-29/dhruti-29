@@ -9,7 +9,7 @@ I enjoy coding, solving problems, and building projects while learning new techn
 
 ### Tech Stack
 
-<p>
+<p> 
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,git,github&theme=dark" alt="Tech Stack" />
 </p>
 
