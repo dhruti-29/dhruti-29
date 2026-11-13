@@ -1,7 +1,7 @@
 #    <h2 align="center">Dhruti P. Viradiya</h2>
 ### CSE Student | Aspiring AI Engineer
 
-I enjoy coding, solving problems, and building projects while learning new technologies.
+I enjoy coding, solving problems, and building projects while learning new technologies. 
   
 *  Practicing DSA and problem solving  
 *  Learning Python and exploring AI/ML  
